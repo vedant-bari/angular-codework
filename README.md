@@ -1,5 +1,5 @@
-#run the below command where angular.json is located
-npm install
+#run ( npm install ) where angular.json is located
+
 
 ## Development server
 
